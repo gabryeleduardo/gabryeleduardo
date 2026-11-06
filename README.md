@@ -1,27 +1,18 @@
-# Hello, I'm Gabryel Eduardo! 👋
+# Olá! Eu sou o Gabryel Eduardo 👋
 
-## About Me
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFTM - Patrocínio/MG. Atualmente, estou focado em construir uma base sólida em programação, lógica e estruturação de dados e gosto de facilitar tarefas diárias.
 
-My name is Gabryel Eduardo, I am 26 years old, and I am a student of Analysis and Systems Development.
+### 🚀 Sobre mim
+- 📚 Estudando os fundamentos da computação e orientação a objetos.
+- 💻 Concentrando meus aprendizados práticos em **Java**, **C** e Banco de Dados Relacional (**MySQL**).
+- 🌱 Dando meus primeiros passos no versionamento de código com Git e organizando meus estudos aqui no GitHub.
+- 🎯 Meu objetivo de curto prazo é dominar essas linguagens base para iniciar meus primeiros projetos e buscar oportunidades de estágio.
 
-I am interested in programming and software development, and I am looking for opportunities to work in the technology field. I enjoy learning new technologies and improving my skills through academic and practical projects.
+### 🛠️ O que estou aprendendo
+- **Linguagens:** Java, C
+- **Banco de Dados:** MySQL
+- **Ferramentas:** Git e GitHub (iniciante)
 
-## Technologies and Learning
-
-- Java — currently studying
-- C — intermediate knowledge
-- C++ — planning to learn
-- Databases — currently studying
-- SQL and PostgreSQL
-
-Database management is the academic subject I feel most comfortable with and enjoy studying the most.
-
-## Goals
-
-My goal is to continue developing my programming skills and start my career in the technology field, working with software development and databases.
-
-## Contact
-
-- Email: [gabryeleduardo@hotmail.com](mailto:gabryeleduardo@hotmail.com)
-- LinkedIn: [Gabryel Eduardo](https://www.linkedin.com/in/gabryel-eduardo-ads)
-- GitHub: [gabryeleduardo](https://github.com/gabryeleduardo)
+### 📫 Como me encontrar
+- **LinkedIn:** www.linkedin.com/in/gabryel-eduardo-ads
+- **E-mail:** gabryeleduardo@hotmail.com
